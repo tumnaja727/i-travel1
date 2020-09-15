@@ -1,0 +1,68 @@
+.logohome {
+    background-image: url(../picture/logo2.png);
+    width: 110px;
+    height: 27%;
+    position: relative;
+    top: 6%;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.travel01 {
+    background-image: url(../picture/forest.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 17%;
+}
+.travel02 {
+    background-image: url(../picture/star.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 30%;
+}
+.logout01 button {
+    background-color: white;
+    font-size: 16px;
+    font-weight: 600;
+    color: #3880FF;
+}
+.logout01 {
+    position: relative;
+    top: 58%;
+    text-align: center;
+}
+.travel02 IonButton {
+    top: 100%;
+    position: relative;
+}
+.buttontravel01 {
+    position: relative;
+    top: 100px;
+    text-align: center;
+    margin-left: -31px;
+}
+.buttontravel02 {
+    position: relative;
+    top: 100px;
+    text-align: center;
+    margin-left: -40px;
+}
+.buttontravel02 button {
+    background-color: white;
+    font-size: 16px;
+}
+.buttontravel01 button {
+    background-color: white;
+    font-size: 16px;
+}
